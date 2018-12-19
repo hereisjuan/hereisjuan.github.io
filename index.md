@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome, we appreciate your time
 
-You can use the [editor on GitHub](https://github.com/hereisjuan/hereisjuan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are committed to bring a change to this world.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
